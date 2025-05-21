@@ -115,7 +115,7 @@ let userIsBlocked = false;
 let goToPage = "";
 
 if (userName = "") && (userAge >= 18) && userIsBlocked == false;
-   userIsLoggedIn = true; && (goToPage = /home)
+   userIsLoggedIn = true; && (goToPage = "/home")
    console.log(Welcome)
 } else {
     console.log("You can´t log in");
