@@ -102,7 +102,7 @@ const userMale = false;
 
 // Skriv koden for oppgave 5 her
 
-const userTitle = userMale ? "true" : "false";
+const userTitle = userMale ? "Mr" : "Mrs";
 
 if (userMale) {
   userTitle = "Mr";
