@@ -52,7 +52,38 @@ Prøv ut noen av operatorene vi så på i forrige forelesning:
 Skriv noen eksempler der du tester disse operatorene.
 ******************************************************************************/
 
-// Skriv koden for oppgave 3 her
+// Skriv koden fletor oppgave 3 her
+
+let a = 5;
+let b = 20;
+
+// Addition operator
+console.log(a+b);
+
+// Subtraction operator
+console.log(a-b);
+
+// Division operator
+console.log(a/b);
+
+// Multiplication operator
+console.log(a*b);
+
+// ++
+console.log(a++b);
+
+// --
+console.log(a--b);
+
+// +=
+console.log(a+=b);
+
+// -=
+console.log(a-=b);
+
+
+
+
 
 /******************************************************************************
 OPPGAVE 4
