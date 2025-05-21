@@ -101,3 +101,13 @@ at betingelsen din fungerer som den skal.
 const userMale = false;
 
 // Skriv koden for oppgave 5 her
+
+const userTitle = isMale ? "true" : "false";
+
+if (userTitle) {
+  userMale = "Mr";
+} else {
+  userMale = "Mrs";
+}
+
+console.log(userMale);
