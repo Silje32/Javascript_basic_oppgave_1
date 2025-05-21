@@ -78,14 +78,10 @@ console.log(a++);
 console.log(a--);
 
 // +=
-console.log(a+=b);
+console.log((a += b));
 
 // -=
-console.log(a-=b);
-
-
-
-
+console.log((a -= b));
 
 /******************************************************************************
 OPPGAVE 4
@@ -114,13 +110,12 @@ let userIsLoggedIn = false;
 let userIsBlocked = false;
 let goToPage = "";
 
-if (userName = "") && (userAge >= 18) && userIsBlocked == false;
-   userIsLoggedIn = true; && (goToPage = "/home")
-   console.log(Welcome)
-} else {
-    console.log("You can´t log in");
-}
-
+//if (userName = "") && (userAge >= 18) && userIsBlocked == false;
+//userIsLoggedIn = true; && (goToPage = "/home")
+//console.log(Welcome)
+//} else {
+// console.log("You can´t log in");
+//}
 
 // Skriv koden for oppgave 4 her
 
