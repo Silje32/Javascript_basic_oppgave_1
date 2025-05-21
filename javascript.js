@@ -34,11 +34,11 @@ let myOutfit = "dress";
 const myAge = "39";
 let myKids = 2;
 
-// Boolean 
+// Boolean
 const Married = true;
-let 
+let Pets = true;
 
-// Array 
+// Array
 const Kids = ["Carin", "Caspian"];
 let Age = [8, 3];
 
