@@ -104,10 +104,10 @@ const userMale = false;
 
 const userTitle = userMale ? "true" : "false";
 
-if (userTitle) {
-  userMale = "Mr";
+if (userMale) {
+  userTitle = "Mr";
 } else {
-  userMale = "Mrs";
+  userTitle = "Mrs";
 }
 
-console.log(userMale);
+console.log(userTitle);
