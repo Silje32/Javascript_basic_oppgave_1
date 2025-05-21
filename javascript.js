@@ -146,4 +146,4 @@ if (userMale) {
   userTitle = "Mrs";
 }
 
-console.log(userTitle);
+console.log(userMale);
