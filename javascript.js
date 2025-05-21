@@ -31,16 +31,18 @@ const myName = "Silje";
 let myOutfit = "dress";
 
 // Number
-const myAge = "39";
+const myAge = 39;
 let myKids = 2;
 
 // Boolean
-const Married = true;
-let Pets = true;
+const married = true;
+let pets = true;
 
 // Array
-const Kids = ["Carin", "Caspian"];
-let Age = [8, 3];
+const kids = ["Carin", "Caspian"];
+let age = [8, 3];
+
+console.log(kids[0]);
 
 /******************************************************************************
 OPPGAVE 3
