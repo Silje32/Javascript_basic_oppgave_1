@@ -34,6 +34,14 @@ let myOutfit = "dress";
 const myAge = "39";
 let myKids = 2;
 
+// Boolean 
+const Married = true;
+let 
+
+// Array 
+const Kids = ["Carin", "Caspian"];
+let Age = [8, 3];
+
 /******************************************************************************
 OPPGAVE 3
 
