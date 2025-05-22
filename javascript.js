@@ -78,10 +78,12 @@ console.log(a * b);
 //console.log(a--);
 
 // +=
-//console.log((a += b));
+price += 10;
+console.log(price);
 
 // -=
-// console.log((a -= b));
+price -= 10;
+console.log(price);
 
 /******************************************************************************
 OPPGAVE 4
