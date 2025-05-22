@@ -145,4 +145,4 @@ const userMale = false;
 
 const userTitle = userMale ? "Mr" : "Mrs";
 
-console.log(userTitle);
+console.log(userMale);
