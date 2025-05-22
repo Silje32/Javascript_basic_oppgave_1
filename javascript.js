@@ -143,12 +143,12 @@ const userMale = false;
 
 // Skriv koden for oppgave 5 her
 
-const userTitle = userMale ? "Mr" : "Mrs";
+const userTitle = userMale ? "Mrs" : "Mr";
 
-if (userMale) {
-  userTitle = "Mr";
+if (userTitle) {
+  userMale = "Mrs";
 } else {
-  userTitle = "Mrs";
+  userMale = "Mr";
 }
 
 console.log(userTitle);
