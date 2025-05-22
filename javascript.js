@@ -58,6 +58,7 @@ Skriv noen eksempler der du tester disse operatorene.
 
 const a = 5;
 const b = 20;
+let price = 5;
 
 // Addition operator
 console.log(a + b);
@@ -77,7 +78,6 @@ console.log(a * b);
 // --
 //console.log(a--);
 
-let price = 5;
 // +=
 price += 10;
 console.log(price);
