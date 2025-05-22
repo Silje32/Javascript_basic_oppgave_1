@@ -115,14 +115,14 @@ let userIsLoggedIn = false;
 let userIsBlocked = false;
 let goToPage = "";
 
+// Skriv koden for oppgave 4 her
+
 //if (userName = "") && (userAge >= 18) && userIsBlocked == false;
 //userIsLoggedIn = true; && (goToPage = "/home")
-//console.log(Welcome)
+//console.log(Welcome);
 //} else {
 // console.log("You can´t log in");
 //}
-
-// Skriv koden for oppgave 4 her
 
 /******************************************************************************
 OPPGAVE 5
@@ -143,12 +143,6 @@ const userMale = false;
 
 // Skriv koden for oppgave 5 her
 
-const userTitle = userMale ? "Mrs" : "Mr";
-
-if (userTitle) {
-  userMale = "Mrs";
-} else {
-  userMale = "Mr";
-}
+const userTitle = userMale ? "Mr" : "Mrs";
 
 console.log(userTitle);
