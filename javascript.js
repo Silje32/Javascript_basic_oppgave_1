@@ -117,12 +117,12 @@ let goToPage = "";
 
 // Skriv koden for oppgave 4 her
 
-if (userName = "") && (userAge >= 18) && userIsBlocked == false; {
-  userIsLoggedIn = true;  
+if (userName !== "" && userAge >= 18 && userIsBlocked == false) {
+  userIsLoggedIn = true;
   goToPage = "/home";
-     console.log(Welcome);
+  console.log("Welcome");
 } else {
-    console.log("You can´t log in");
+  console.log("You can´t log in");
 }
 
 /******************************************************************************
