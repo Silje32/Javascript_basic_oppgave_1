@@ -125,6 +125,7 @@ if (userName !== "" && userAge >= 18 && userIsBlocked == false) {
   console.log("You can´t log in");
 }
 
+
 /******************************************************************************
 OPPGAVE 5
 
